@@ -14,7 +14,7 @@ const landinPageStyle = theme => ({
 
 class LandingPage extends Component {
   state = {
-    welcomeMessage: "Step 1: Run the server and refresh (not running)",
+    welcomeMessage: "welcome to SEND ME MARKET",
     step: 0
   };
 
